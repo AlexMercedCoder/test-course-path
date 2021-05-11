@@ -1,10 +1,37 @@
-title: Test-course
-description: fsdfadadfsdfadfsdf
+title: Coder-Collaboration
+description: Learn how to use Git and Github for Collaboration
 steps:
-  - course: githubtraining/introduction-to-github
-    description: The first step in your course
-  - link: 'https://lab.github.com'
-    title: Check out Learning Lab for more courses!
-    description: >-
-      There are many more courses available on Learning Lab for you to check
-      out.
+  - title: The Basics of Bash/Terminal
+    description: Learn in the ins and outs of the Bash Terminal
+    link: >-
+      https://www.youtube.com/watch?v=snOP94q34V4&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=6
+  - title: The Basics of Git
+    description: Learn How to Work with Git in the Terminal Shell
+    link: >-
+      https://www.youtube.com/watch?v=L4zbgo7KFoA&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=7&t=9s
+  - title: Creating SSH Keys
+    description: Setting Up More Secure Authentication to Git
+    link: >-
+      https://www.youtube.com/watch?v=6u84sACs0v0&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=8
+  - title: Working with Remotes
+    link: >-
+      https://www.youtube.com/watch?v=TOsVVxXdtu8&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=9&t=2s
+    description: 'How to add your code to Remote Repos on Github, Gitlab and Bitbucket'
+  - title: How to Write Markdown
+    link: >-
+      https://www.youtube.com/watch?v=lbpRomejEd0&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=10&t=13s
+    description: The Language of Documentation
+  - title: 'Lab: Reviewing Pull Requests'
+    link: 'https://lab.github.com/githubtraining/reviewing-pull-requests'
+    description: Take This Github Lab
+  - title: 'Lab: Managing Merge Conflicts'
+    link: 'https://lab.github.com/githubtraining/managing-merge-conflicts'
+    description: Take this Github Lab
+  - title: 'Developer Team Workflow #1 (Scrum and Branches)'
+    link: >-
+      https://www.youtube.com/watch?v=llDIbfSrRB8&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=42
+    description: How a Developer Team is Organized
+  - title: 'Developer Team Workflow #2 (Git and Pull Requests)'
+    description: How to get your team setup
+    link: >-
+      https://www.youtube.com/watch?v=n1AfM6fuc9M&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=43

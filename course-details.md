@@ -1,9 +1,12 @@
-This is the description we show on the course page [here](https://lab.github.com/AlexMercedCoder/test-course). This first paragraph will be featured at the top of the page so make it great.
-​
+#### Description
+This is a self-guided course to learn about the tools and practices about working in a development team.
 
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
+#### Topics Covered
+- Bash Terminal
+- Git
+- Github
+- Working with Scrum & Agile
+- Tools for Project Management (Asana, Trello, Notion, etc.)
 
-
-Include information on how they can reach you for questions about the content or course. 
+#### Learn More
+- [devNursery](https://www.devnursery.com)
